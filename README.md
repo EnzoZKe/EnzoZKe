@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ### Hi there 👋
 
 <!--
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoZKe&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&layout=compact)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
