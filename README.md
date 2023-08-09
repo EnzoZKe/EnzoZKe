@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="{seu link do github}">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username={EnzoZKe}&show_icons=true&theme=gruvbox" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username={Enzo}&show_icons=true&theme=gruvbox" />
 </a>
 <a href="{seu link do github}">
- <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={EnzoZKe}&layout=compact&theme=gruvbox" />
+ <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Enzo}&layout=compact&theme=gruvbox" />
 </a>
