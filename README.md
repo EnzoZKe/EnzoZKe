@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <p>Hello everyone!</p>
 <h1>WOW, this is new to me</h1>
 I’m currently learning =>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" style="widht: 20px">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png](https://forkpoint.com/wp-content/uploads/js-logo.png)https://forkpoint.com/wp-content/uploads/js-logo.png" style="widht: 20px">
