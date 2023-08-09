@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>WOW, this is new to me</h1>
-<h2>I’m currently learning =></h2>
-<img src="https://forkpoint.com/wp-content/uploads/js-logo.png" style="Width: 50px"> 
-<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" style="Width: 50px">
-
-
-<h2>I alredy know these here:</h2>
-<img src="https://forkpoint.com/wp-content/uploads/js-logo.png" style="Width: 50px">
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png" style="Width: 50px">
-<img src="https://logospng.org/download/css-3/logo-css-3-256.png" style="Width: 50px">
+<a href="{seu link do github}">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username={seu nome do gihub}&show_icons=true&theme=gruvbox" />
+</a>
+<a href="{seu link do github}">
+ <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={seu nome do gihub}&layout=compact&theme=gruvbox" />
+</a>
