@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Hello everyone!</p>
+<h1>WOW, this is new to me</h1>
+I’m currently learning (Javascript and C# {I alredy now a bit about HTML and CSS})
