@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <h1>WOW, this is new to me</h1>
 <h2>I’m currently learning =></h2>
-<img src="https://forkpoint.com/wp-content/uploads/js-logo.png" style="Width: 50px"> <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" style="Width: 50px">
+<img src="https://forkpoint.com/wp-content/uploads/js-logo.png" style="Width: 50px"> 
+<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/csharp@0.0.0/csharp_256x256.png" style="Width: 50px">
 
 
 <h2>I alredy know these here:</h2>
