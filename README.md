@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <p>Hello everyone!</p>
 <h1>WOW, this is new to me</h1>
-I’m currently learning (Javascript and C# {I alredy now a bit about HTML and CSS})
+I’m currently learning =>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png">
