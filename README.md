@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there 👋
+### Hello, I'm Enzo, a 16 years old programmer, and student at SESI 👋
 
 <!--
 **EnzoZKe/EnzoZKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoZKe&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&theme=gruvbox)
 <br>
 <h2>I'm learning all of these</h2>
 <div style="display: inline_block">
