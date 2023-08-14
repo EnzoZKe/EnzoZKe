@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div height=180em align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoZKe&show_icons=true&theme=tokyonight)
-</div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&theme=tokyonight)
+<a href="https://github.com/EnzoZKe">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=EnzoZKe&show_icons=true&theme=tokyonight">
+<a href="https://github.com/EnzoZKe">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&theme=tokyonight">
 <br>
-<h2>I'm learning all of these</h2>
+<h2>I'm learning all of these languages</h2>
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="Width: 50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="Width: 50px" />
