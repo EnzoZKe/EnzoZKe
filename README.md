@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h2>I'm learning all of these languages</h2>
+<h2>I'm learning all of these languages (at least a little bit of each)</h2>
 <div style="display: inline_block">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="Width: 50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="Width: 50px" />
