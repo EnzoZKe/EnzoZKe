@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/EnzoZKe">
+<div>
+  <a href="https://github.com/EnzoZKe">
   <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=EnzoZKe&show_icons=true&theme=tokyonight">
 <a href="https://github.com/EnzoZKe">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&theme=tokyonight">
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoZKe&layout=compact&theme=tokyonight">
+</div>
+
 <br>
 <h2>I'm learning all of these languages</h2>
 <div style="display: inline_block">
